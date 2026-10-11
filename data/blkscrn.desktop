@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Blk.[Scrn]
+GenericName=Black Screen
+Comment=Open for a black screen. Click for colors. Draw if you'd like. Luv Lofi.
+Exec=blkscrn
+Icon=blkscrn
+Terminal=false
+Categories=Utility;
+Keywords=black;screen;lofi;ambient;gradient;oled;whiteboard;draw;
+StartupWMClass=blkscrn
