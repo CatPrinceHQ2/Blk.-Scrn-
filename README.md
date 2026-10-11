@@ -3,7 +3,7 @@
   <img src="icons/blkscrn-512.png" alt="Blk.[Scrn]" width="384">
 </p>
 
-Black screen. Open for a black screen. Click for colors. Epic.
+Black screen. Open for a black screen. Click for colors. You can use it as a whiteboard as well. Real simple, hope you like it.
 <p align="center">
   <img src="BlkReadmeImage.png" alt="Blk.[Scrn] screenshot" width="800">
 </p>
