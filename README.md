@@ -5,5 +5,5 @@
 
 Black screen. Open for a black screen. Click for colors. Epic.
 <p align="center">
-  <img src="Blk.-Scrn-/BlkReadmeImage.png" alt="Blk.[Scrn] screenshot" width="800">
+  <img src="BlkReadmeImage.png" alt="Blk.[Scrn] screenshot" width="800">
 </p>
